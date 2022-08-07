@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hippo-7
-- 👀 I’m interested in bettering my skills with coding to better help myself and my small business flourish. 
-- 🌱 I’m currently learning how to code python, then i will be moving onto java and html.
-- 💞️ I’m looking to collaborate on anything that will help my skills develop. I am just beginning on my coding journey.
+- 👋 Hi, I’m @hippo
+- 👀 I’m a new up and coming Discord Developer interested in bettering my coding experience.
+- 🌱 I’m currently working on a couple of simple twitter and discord bots with plans to scale my bots as I lesrn more.
+- 💞️ I’m looking to collaborate with any Discord Developers who are willing to share their knowledge. 
 - 📫 How to reach me purplehippo7@proton.me
 
 <!---
